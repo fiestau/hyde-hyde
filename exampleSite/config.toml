@@ -70,3 +70,4 @@ theme = "hyde-hyde"
     identifier = "about"
     weight = 300
     url = "/about/"
+
